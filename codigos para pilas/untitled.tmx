@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" nextobjectid="15">
+ <tileset firstgid="1" name="images (2)" tilewidth="32" tileheight="32" tilecount="48">
+  <image source="../Users/marcos/Pictures/juego de pilas/images (2).jpg" width="259" height="194"/>
+  <tile id="19">
+   <objectgroup draworder="index">
+    <object id="0" x="1" y="1" width="1"/>
+    <object id="0" x="2" y="1" width="31" height="30"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="49" name="images (20)" tilewidth="32" tileheight="32" tilecount="49">
+  <image source="../Users/marcos/Pictures/juego de pilas/images (20).jpg" width="225" height="225"/>
+ </tileset>
+ <tileset firstgid="98" name="descarga" tilewidth="32" tileheight="32" tilecount="49">
+  <image source="../Users/marcos/Pictures/juego de pilas/descarga.jpg" width="225" height="225"/>
+ </tileset>
+ <tileset firstgid="147" name="images (3)" tilewidth="32" tileheight="32" tilecount="20">
+  <image source="../Users/marcos/Pictures/juego de pilas/images (3).jpg" width="128" height="179"/>
+ </tileset>
+ <tileset firstgid="167" name="images (14)" tilewidth="32" tileheight="32" tilecount="42">
+  <image source="../Users/marcos/Pictures/juego de pilas/images (14).jpg" width="254" height="198"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzVlEsOgCAMRMsRTLgF91/oSm8mC0lI09IPoLKYDYF5tNM0AkB0KD3yvC3asw7iPDDC3M2o4n9mXQZuqLitO5wPPv8bNzn1FdfaB09PLfcprvb/+B3Vn5W4Ui9ncy37B3to57nF1c6UxOX2w0iulFPtPZvL5fNGvT3z7M1X4o7QClwuD+zXk4NlJ1B19OgGoggnUA==
+  </data>
+ </layer>
+ <layer name="capa de casas" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20JT6AAAHgaCWAAAQ==
+  </data>
+ </layer>
+</map>

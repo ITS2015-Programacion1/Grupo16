@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="images (2)" tilewidth="32" tileheight="32" tilecount="48">
+  <image source="../Users/marcos/Pictures/juego de pilas/images (2).jpg" width="259" height="194"/>
+ </tileset>
+ <tileset firstgid="49" name="th (3)" tilewidth="32" tileheight="32" tilecount="25">
+  <image source="../Users/marcos/Pictures/juego de pilas/th (3).jpg" width="160" height="160"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYCQCa0MxMWqpiQfaXkJ4uNg72OOB2LAaLvZSEvfEpiFSMS3tpXfaHLWX/Lgkx4zBbi818GAsI0ftHVh7AchxF1k=
+  </data>
+ </layer>
+ <layer name="solido paredes" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzNllEKACEIBT1E9z9rvxGV80zbfRCEmSOZUTOzBsYo4h+NOds8H0VR7q2quLuzjHC9WJSr1FcVyTG7dlSvuUq9qth/5Z7u5Smu0keU69lv8qrkEtG3PZubra966TVTfeer+Ora7LeaE27Wf0XZ0wGt1wvN
+  </data>
+ </layer>
+</map>
