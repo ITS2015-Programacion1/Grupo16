@@ -1,5 +1,4 @@
 # coding: utf-8
-#para cambiar el nombre en git
 import pilasengine
 from pilasengine.habilidades import Habilidad
 
